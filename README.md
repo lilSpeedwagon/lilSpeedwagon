@@ -11,7 +11,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - ⚡ Most interested in C++ and Highload
-- :briefcase: Worked at Yandex, Quest Software, Genesys
+- :briefcase: Worked in Yandex, Quest Software, Genesys
 - 🔭 Currently working on [self-made microservices environment](https://github.com/lilSpeedwagon/zoo) 
 - :video_game: Tend to play and create videogames
 
