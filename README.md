@@ -20,4 +20,6 @@ This profile is intended for my pet projects and practice repositories.
 You can reach me on:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/lilSpeedwagon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/egor-sorokin-481301207/)  
 
+![CodeWars stats](https://www.codewars.com/users/lilSpeedwagon/badges/small)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lilSpeedwagon&show_icons=true)  
