@@ -20,6 +20,7 @@ This profile is intended for my pet projects and practice repositories.
 You can reach me on:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/lilSpeedwagon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/egor-sorokin-481301207/)  
 
+![LeetCode user lilSpeedwagon](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FlilSpeedwagon&logo=leetcode&logoColor=yellow)
 ![CodeWars stats](https://www.codewars.com/users/lilSpeedwagon/badges/small)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lilSpeedwagon&show_icons=true)  
